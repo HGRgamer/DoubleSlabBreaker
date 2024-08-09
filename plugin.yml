@@ -1,0 +1,6 @@
+---
+name: DoubleSlabBreaker
+version: 1.0.0
+main: HGRgamer\DoubleSlabBreaker\Main
+api: 5.0.0
+...
